@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Content Analyzer</string>
+    <string name="screen_title">AI Content Analyzer</string>
+    <string name="input_label">Enter text to analyze</string>
+    <string name="input_placeholder">Paste the content here (min 20 characters)...</string>
+    <string name="analyze_button">Analyze Content</string>
+    <string name="analyzing_button">Analyzing...</string>
+    <string name="result_title">Analysis Result</string>
+    <string name="ai_probability_label">AI Probability:</string>
+    <string name="human_probability_label">Human Probability:</string>
+    <string name="fake_probability_label">Fake/Misleading:</string>
+    <string name="verdict_label">Verdict:</string>
+    <string name="confidence_format">Confidence: %1$d%%</string>
+    <string name="retry_button">Retry</string>
+    <string name="idle_instruction">Enter content above to see if it\'s AI-generated or human-written.</string>
+</resources>

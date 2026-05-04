@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\HP\AndroidStudioProjects\ContentAnalyzer\sdk\.cxx\Debug\6tu6h131\x86_64'
+ninja: no work to do.
